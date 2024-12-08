@@ -16,4 +16,4 @@ Antes de ejecutar el proyecto, asegúrate de tener instalados los siguientes pro
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   https://github.com/Aldo1MC/Proyecto-Ciencia-de-Datos---Uber-Eats.git
+   https://github.com/Aldo1MC/Proyecto-Ciencia-de-Datos-Uber-Eats.git
